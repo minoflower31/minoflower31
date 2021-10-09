@@ -1,6 +1,8 @@
 1. 졸업작품 : 동아리 전용 어플리케이션
-    - 사용 언어 : java
+    - Repository : **AEACT**
+    - Language : java
 
 
 2. 환경 프로젝트 참여
-    - 사용 언어 : java
+    - Repository : **EnvironmentDataService**
+    - Language : java

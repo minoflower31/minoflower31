@@ -1,8 +1,4 @@
-1. 졸업작품 : 동아리 전용 어플리케이션
-    - Repository : **AEACT**
-    - Language : java
+### I hope to become a Back-End Programmer
+<br>
 
-
-2. 환경 프로젝트 참여
-    - Repository : **EnvironmentDataService**
-    - Language : java
+> ### Motto: Growth

@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Minoflower's&nbsp;Github&textBg=false&fontSize=70" />
 
-<h3>사용자의 불편함을 0에 수렴하고 서비스의 안정성을 발산하는 개발자</h3>
+<br>
 
 # Technical Stack․
 
